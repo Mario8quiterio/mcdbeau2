@@ -66,11 +66,15 @@ button#cheese.timer.btn.btn-success.btn-lg{
   background-image: url(https://mario8quiterio.github.io/mcdbeau2/images/chadSressed.jpeg);
   background-size: 90px;
 }
-button#silv_onion.timer.btn.btn-success.btn-lg{
+button#sliv_onion.timer.btn.btn-success.btn-lg{
   background-image: url(https://mario8quiterio.github.io/mcdbeau2/images/dyli.jpeg);
   background-size: 90px;
 }
 button#shred.timer.btn.btn-success.btn-lg{
   background-image: url(https://mario8quiterio.github.io/mcdbeau2/images/brad.jpeg);
+  background-size: 90px;
+}
+button#sliced_tom.timer.btn.btn-success.btn-lg{
+  background-image: url(https://mario8quiterio.github.io/mcdbeau2/images/hag.jpeg);
   background-size: 90px;
 }
