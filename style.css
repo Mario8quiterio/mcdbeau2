@@ -62,3 +62,7 @@ h4 {
 .btn-success {
   background-color: #007078
 }
+button#cheese.timer.btn.btn-success.btn-lg{
+  background-image: url(https://mario8quiterio.github.io/mcdbeau2/images/chadSressed.jpeg);
+  background-size: 90px;
+}
